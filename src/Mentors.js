@@ -16,7 +16,7 @@ export default function Mentors() {
             
 
                 <div className='p-2 m-4  h-[290px] w-[220px] shadow-2xl shadow-gray-400 hover:bg-slate-100 flex flex-col justify-center items-center'>
-                    <img className=' h-[110px] w-[100px] rounded-full' src={img1} />
+                    <img className=' h-[110px] w-[100px] rounded-full' src={img1} alt='/' />
                     <p className='font-semibold '> Dr. Dirk Brockmann</p>
                     <p>university of Cambridge,UK</p>
                     <p className='flex mt-1'><BiPhone className='mt-1'/> - 020-71173125</p>
@@ -25,7 +25,7 @@ export default function Mentors() {
                     <p className='hover:text-blue-600 bg-gray-400 p-1 rounded-lg mt-4 flex'>Massage<FcSms className='mt-1 h-[20px] w-[30px]'/></p>
                 </div>
                 <div className='p-2 m-4  h-[290px] w-[220px] shadow-2xl shadow-gray-400 hover:bg-slate-100 flex flex-col justify-center items-center'>
-                    <img className=' h-[110px] w-[100px] rounded-full' src={img2} />
+                    <img className=' h-[110px] w-[100px] rounded-full' src={img2} alt='/'/>
                     <p className='font-semibold '> Dr. h.c. Artemis Alexiadou </p>
                     <p>university of Cambridge,UK</p>
                     <p className='flex mt-1'><BiPhone className='mt-1'/> - 20-71171735</p>
@@ -34,7 +34,7 @@ export default function Mentors() {
                     <p className='hover:text-blue-600 bg-gray-400 p-1 rounded-lg mt-4 flex'>Massage<FcSms className='mt-1 h-[20px] w-[30px]'/></p>
                 </div>
                 <div className='p-2 m-4  h-[290px] w-[220px] shadow-2xl shadow-gray-400 hover:bg-slate-100 flex flex-col justify-center items-center'>
-                    <img className=' h-[110px] w-[100px] rounded-full' src={img3} />
+                    <img className=' h-[110px] w-[100px] rounded-full' src={img3} alt='/' />
                     <p className='font-semibold '>John Meyer </p>
                     <p>university of Cambridge,UK</p>
                     <p className='flex mt-1'><BiPhone className='mt-1'/> - 020-71171500</p>
@@ -43,7 +43,7 @@ export default function Mentors() {
                     <p className='hover:text-blue-600 bg-gray-400 p-1 rounded-lg mt-4 flex'>Massage<FcSms className='mt-1 h-[20px] w-[30px]'/></p>
                 </div>
                 <div className='p-2 m-4  h-[290px] w-[220px] shadow-2xl shadow-gray-400 hover:bg-slate-100 flex flex-col justify-center items-center'>
-                    <img className=' h-[110px] w-[100px] rounded-full' src={img4} />
+                    <img className=' h-[110px] w-[100px] rounded-full' src={img4} alt='/'/>
                     <p className='font-semibold '>Professor Plavnik</p>
                     <p>university of Cambridge,UK</p>
                     <p className='flex mt-1'><BiPhone className='mt-1'/> - 020-71173071</p>
@@ -54,7 +54,7 @@ export default function Mentors() {
 
 
                 <div className='p-2 m-4  h-[290px] w-[220px] shadow-2xl shadow-gray-400 hover:bg-slate-100 flex flex-col justify-center items-center'>
-                    <img className=' h-[110px] w-[100px] rounded-full' src={img5} />
+                    <img className=' h-[110px] w-[100px] rounded-full' src={img5} alt='/' />
                     <p className='font-semibold '>Abdou Hussien</p>
                     <p>university of Cambridge,UK</p>
                     <p className='flex mt-1'><BiPhone className='mt-1'/> - 020-71179559</p>
