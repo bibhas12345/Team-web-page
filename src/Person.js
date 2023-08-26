@@ -8,7 +8,7 @@ import p6 from './pimages/humboldt.jpg'
 import p7 from './pimages/planck.webp'
 import p8 from './pimages/oxford.jpg'
 
-import { BsArrowRight } from 'react-icons/bs';
+// import { BsArrowRight } from 'react-icons/bs';
 
 
 export default function Person() {
